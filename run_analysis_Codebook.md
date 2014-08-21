@@ -1,6 +1,8 @@
 #run_analyis.R Codebook				
 * by Thomas Harder
 
+# to view the variables read this document in raw mode. The formatting is better. 
+
 ## Work Performed
 The data had to be reassmebled from 8 different files. The files contained the subjects, features,
 activities for both test and training data. This required reading in the files and then piecing them back 
